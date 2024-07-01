@@ -1,8 +1,10 @@
 [package]
-name = "frameging"
+name = "framigen"
 description = "Lib for generation images with declarative style"
 version = "0.0.1"
 edition = "2021"
 authors = ["TOwInOK"]
+repository = "https://github.com/TOwInOK/framigen"
+license = "MIT"
 
 [dependencies]
