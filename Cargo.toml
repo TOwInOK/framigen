@@ -8,3 +8,4 @@ repository = "https://github.com/TOwInOK/framigen"
 license = "MIT"
 
 [dependencies]
+ril = { version = "0.10.1", features = ["all-pure"] }
